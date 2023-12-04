@@ -52,5 +52,6 @@ Ce projet EJB vise à fournir une solution de gestion des hôtels et des villes 
 - Modifier un hotel:
 ![WhatsApp Image 2023-12-04 at 19 46 50_7f020423](https://github.com/AcetaCrenu/Gestion-Hotel-EJB/assets/127788237/7afafce9-82d9-4cf7-a843-8da5a03528be)
 ### Filtrage des hotels par ville:
-![WhatsApp Image 2023-12-04 at 19 39 12_d4f47c2c](https://github.com/AcetaCrenu/Gestion-Hotel-EJB/assets/127788237/22e2233e-ad24-4cf8-85d2-ee28446f492b)
+![WhatsApp Image 2023-12-04 at 19 55 05_0f4c470d](https://github.com/AcetaCrenu/Gestion-Hotel-EJB/assets/127788237/bd5c7f3e-5bc7-466a-9245-f5711aad129b)
+
 
